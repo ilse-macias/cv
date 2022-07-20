@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(153, 201, 212);
+}
+
+hr{
+    background-color: rgb(153, 201, 212);
+    border-style: dotted none none;
+    height: 2px;
+    width: 5em;
+    border-width: 5px;
+    border-color: gray;
+}
+
+img{
+    border-radius: 50%;
+}
+
+h1, h3{
+    color: #FF0063;
+}
